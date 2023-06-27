@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.sda.</groupId>
 	<artifactId>wypozyczalnia-kostiumow-adk</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>wypozyczalnia-kostiumow-adk</name>
 	<description>group-project-sda</description>
 
@@ -27,8 +27,7 @@
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
-			<version>1.18.12</version>
-			<scope>provided</scope>
+			<version>1.18.28</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
